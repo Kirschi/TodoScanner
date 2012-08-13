@@ -1,16 +1,21 @@
 TodoScanner
 ===========
 
-Java application to scan for TODOs/FIXMEs etc. in all code files (e.g. cpp, java, ini, lua,...) in the current directory and it's subdirectories. Found lines with tasks (currently INFO < TODO < FIXME) are displayed in a nice list.
+Java application to scan for TODOs/FIXMEs etc. in all code files (e.g. cpp, java, ini, lua,...)
+in the current directory and it's subdirectories.
+Found lines with tasks (currently INFO < TODO < FIXME) are displayed in a nice list.
 
 ~ by Kirschi
 
 
+
 I release this tool under the new BSD License (3-clause).
+
 
 ### License Text
 
 Copyright (c) 2009-2012, Stefan Kirchsteiger (Kirschi) <http://kirschi.org>
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
